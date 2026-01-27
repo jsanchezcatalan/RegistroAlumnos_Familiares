@@ -303,7 +303,7 @@ function procesarFormulario(e) {
     }
 }
 
-// 4. CONSTRUCCIÓN Y MODAL [cite: 92, 98]
+// 4. CONSTRUCCIÓN Y MODAL 
 
 function construirYMostrarAlumno() {
     // Instanciamos el Builder
