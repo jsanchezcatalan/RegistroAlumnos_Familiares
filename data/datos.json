@@ -1,0 +1,31 @@
+{
+  "lenguas": ["Español", "Inglés", "Francés", "Alemán", "Italiano"],
+  "idiomas": ["Inglés", "Francés", "Alemán", "Chino", "Japonés"],
+  "profesiones": ["Ingeniero", "Docente", "Médico", "Administrativo", "Autónomo", "Desempleado"],
+  "niveles_estudios": ["Primaria", "ESO", "Bachillerato", "FP Grado Medio", "FP Grado Superior", "Universitario"],
+  "alergias": ["Polen", "Ácaros", "Lactosa", "Gluten", "Frutos Secos", "Ninguna"],
+  "paises": [
+    {
+      "nombre": "España",
+      "ciudades": [
+        {
+          "nombre": "Sevilla",
+          "poblaciones": ["Sevilla Capital", "Dos Hermanas", "Alcalá de Guadaíra"]
+        },
+        {
+          "nombre": "Madrid",
+          "poblaciones": ["Madrid Capital", "Móstoles", "Alcalá de Henares"]
+        }
+      ]
+    },
+    {
+      "nombre": "Francia",
+      "ciudades": [
+        {
+          "nombre": "París",
+          "poblaciones": ["París", "Versalles"]
+        }
+      ]
+    }
+  ]
+}
