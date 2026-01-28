@@ -12,6 +12,7 @@ Este proyecto implementa un formulario de registro dinámico utilizando HTML5, J
     Dado que el proyecto utiliza `fetch` para cargar el archivo JSON, **es necesario ejecutarlo a través de un servidor local** para evitar errores de política CORS.
 
     * (VS Code): Instala la extensión "Live Server", haz clic derecho en `index.html` y selecciona "Open with Live Server".
+    * xampp
     
 
 ## 🛠️ Tecnologías y Patrones
